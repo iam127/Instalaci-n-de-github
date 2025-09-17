@@ -97,3 +97,9 @@ Puedes revisar con:
 
 git log
 
+_______________________________________COOMMIT___________________
+
+git status
+git add .
+git commit -m "Creación del proyecto Django con configuración inicial"
+git push origin main
